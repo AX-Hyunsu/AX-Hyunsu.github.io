@@ -3,7 +3,7 @@ layout: single
 title:  "Test"
 ---
 
-# Welcome
+# Welcome!
 
 **Hello world**, this is my first Jekyll blog post.
 
